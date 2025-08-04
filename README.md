@@ -6,4 +6,5 @@
 
 Tech stack:
 HTML
-Scss
+SASS
+Adaptive layout
